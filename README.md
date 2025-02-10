@@ -38,7 +38,7 @@ More detailed dataset structure：
 
 ```
 ├── RealUAV/
-|	├── city1/                            /* flight sequence name
+|    ├── city1/                            /* flight sequence name
 │      ├── crop/                          /* Satellite map slicing
 │      │      ├── sat_image/
 │      │      │      ├── 1112_1112.jpg    /*The coordinates of the center point in the large map
@@ -53,11 +53,11 @@ More detailed dataset structure：
 │          │      ├── 002.jpg
 │          │      └── .../
 │          └── uav_infos.csv             /*Contains latitude and longitude information of UAV imagese
-|	├── city2/                            
+|    ├── city2/                            
 ...
 ...
 ...
-|	├── village2/  
+|    ├── village2/  
 ...
 ```
 
@@ -65,5 +65,4 @@ More detailed dataset structure：
 
 Visual display in the village scene:
 
-<video width="1200" height="928" controls>   <source src="assets\demo.mp4" type="video/mp4">   您的浏览器不支持 HTML5 视频。 </video>
-
+![image-20250210154847691](assets/image-20250210154847691.png)
