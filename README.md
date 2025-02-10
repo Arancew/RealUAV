@@ -45,14 +45,14 @@ More detailed dataset structure：
 │      │  │  ├── 1112_1262.jpg
 │      │  │  └── .../
 │      │  └── sat_infos.csv           /* Recorded the coordinate information of the image
-│      ├── mapbox.tif                     /* Satellite map containing flight paths
 │      └── uav/
-│      ├── start.txt                  /* The starting pixel coordinates of the drone on the satellite map
-│      ├── uav_image_low_size/
+│         ├── start.txt                  /* The starting pixel coordinates of the drone on the satellite map
+│         ├── uav_image_low_size/
 │            ├── 001.jpg             /*UAV image
 │            ├── 002.jpg
 │            └── .../
-│      └── uav_infos.csv             /*Contains latitude and longitude information of UAV imagese
+│         └── uav_infos.csv             /*Contains latitude and longitude information of UAV imagese
+│      ├── mapbox.tif                     /* Satellite map containing flight paths
 |    ├── city2/                            
 ...
 ...
