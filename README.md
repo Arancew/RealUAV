@@ -40,19 +40,19 @@ More detailed dataset structure：
 ├── RealUAV/
 |    ├── city1/                            /* flight sequence name
 │      ├── crop/                          /* Satellite map slicing
-│      │      ├── sat_image/
-│      │      │      ├── 1112_1112.jpg    /*The coordinates of the center point in the large map
-│      │      │      ├── 1112_1262.jpg
-│      │      │      └── .../
-│      │      └── sat_infos.csv           /* Recorded the coordinate information of the image
+│      │  ├── sat_image/
+│      │  │  ├── 1112_1112.jpg    /*The coordinates of the center point in the large map
+│      │  │  ├── 1112_1262.jpg
+│      │  │  └── .../
+│      │  └── sat_infos.csv           /* Recorded the coordinate information of the image
 │      ├── mapbox.tif                     /* Satellite map containing flight paths
 │      └── uav/
-│          ├── start.txt                  /* The starting pixel coordinates of the drone on the satellite map
-│          ├── uav_image_low_size/
-│          │      ├── 001.jpg             /*UAV image
-│          │      ├── 002.jpg
-│          │      └── .../
-│          └── uav_infos.csv             /*Contains latitude and longitude information of UAV imagese
+│      ├── start.txt                  /* The starting pixel coordinates of the drone on the satellite map
+│      ├── uav_image_low_size/
+│            ├── 001.jpg             /*UAV image
+│            ├── 002.jpg
+│            └── .../
+│      └── uav_infos.csv             /*Contains latitude and longitude information of UAV imagese
 |    ├── city2/                            
 ...
 ...
