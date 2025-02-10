@@ -7,7 +7,7 @@
 
 * [About Dataset](#2-about-dataset)
 
-* [Example](#3. Example)
+* [Example](#3-example)
 
   
 
@@ -65,5 +65,5 @@ More detailed dataset structure：
 
 Visual display in the village scene:
 
-<video src="assets/demo.mp4"></video>
+<video width="1200" height="928" controls>   <source src="assets\demo.mp4" type="video/mp4">   您的浏览器不支持 HTML5 视频。 </video>
 
