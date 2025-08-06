@@ -63,3 +63,18 @@ More detailed dataset structure：
 ...
 ```
 
+## 4.BibTeX
+
+```
+@article{liu2025savl,
+  title={SAVL: Scene-Adaptive UAV Visual Localization Using Sparse Feature Extraction and Incremental Descriptor Mapping},
+  author={Liu, Ganchao and Li, Zhengxi and Gao, Qiang and Yuan, Yuan},
+  journal={Remote Sensing},
+  volume={17},
+  number={14},
+  pages={2408},
+  year={2025},
+  publisher={MDPI}
+}
+```
+
