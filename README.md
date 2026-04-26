@@ -20,7 +20,17 @@ The proposed RealUAV dataset aims to enhance pixel-level self-localization of dr
 
 ## 3. About Dataset
 
-You can download RealUAV  on [Google Drive](https://drive.google.com/file/d/1lLf2vs6OhOiA5KMhp3VYnm5dtUTOffam/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/1W8NVOlnuA4syjd_xFE7udQ?pwd=ublr ).
+If you need access to the **RealUAV Dataset**, please send a request email with your academic email.
+
+```text
+[Title] Request of RealUAV Dataset
+
+This database will only be used for research purposes. I will not make any part of this database available to a third party. I'll not sell any part of this database or make any profit from its use. 
+
+Thank you!
+```
+
+Please send it to arancelzx@foxmail.com via your academic email. I will reply the dataset address to you. 
 
 The dataset is organized sequentially, with details on the number of localization instances and the flight distance for each sequence. Different sequences are tailored to various scenarios, with varying levels of localization difficulty. A total of 15 sequences are provided, covering 6,044 localization instances and a total flight distance of 24,063 meters.
 
