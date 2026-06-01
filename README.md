@@ -30,7 +30,7 @@ This database will only be used for research purposes. I will not make any part 
 Thank you!
 ```
 
-Please send it to arancelzx@foxmail.com via your academic email. I will reply the dataset address to you. 
+Please send it to lizhengxi@mail.nwpu.edu.cn via your **academic email**. I will reply the dataset address to you. 
 
 The dataset is organized sequentially, with details on the number of localization instances and the flight distance for each sequence. Different sequences are tailored to various scenarios, with varying levels of localization difficulty. A total of 15 sequences are provided, covering 6,044 localization instances and a total flight distance of 24,063 meters.
 
